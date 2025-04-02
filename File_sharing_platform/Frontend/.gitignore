@@ -1,0 +1,12 @@
+# Ignore dependencies and build files (if using a framework like React)
+node_modules/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific files
+.vscode/
+.idea/
