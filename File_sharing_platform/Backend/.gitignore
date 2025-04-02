@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Firebase Admin SDK keys
+firebaseAdmin.js
+
+# Uploaded and encrypted files
+uploads/
+decrypted_images/
+
+# Logs and system files
+logs/
+*.log
+npm-debug.log*
